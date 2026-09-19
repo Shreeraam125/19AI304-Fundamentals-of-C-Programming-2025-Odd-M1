@@ -45,7 +45,9 @@ To build a C program that prints integer, float,character, and string literals o
     
         return 0;
     }
-# Output:<img width="458" height="458" alt="image" src="https://github.com/user-attachments/assets/bcabb91f-be46-4d0a-8501-18b1285ea16a" />
+```
+# Output:
+<img width="458" height="458" alt="image" src="https://github.com/user-attachments/assets/bcabb91f-be46-4d0a-8501-18b1285ea16a" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -76,7 +78,8 @@ Thus, the program was implemented and executed successfully, and the required ou
   Use `printf()` to display the values of `PI` and `DAYS`.     
 ### Step 6:  
   Stop
-# Program:```c
+# Program:
+```c
     #include <stdio.h>
     
     #define PI 3.14
@@ -115,7 +118,8 @@ Thus, the program was implemented and executed successfully, and the required ou
    Display their values using printf().
 ### Step 5:    
    Stop
-# Program:```c
+# Program:
+```c
     #include <stdio.h>
     
     int main()
@@ -133,9 +137,11 @@ Thus, the program was implemented and executed successfully, and the required ou
         return 0;
     }
 ```
-# Output:<img width="518" height="260" alt="image" src="https://github.com/user-attachments/assets/7f0bdb32-a347-4d5a-9a44-225cda2d1214" />
+# Output:
+<img width="518" height="260" alt="image" src="https://github.com/user-attachments/assets/7f0bdb32-a347-4d5a-9a44-225cda2d1214" />
 
 # Result: 
+Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
 # IAPR-1- Module 1 - FoC
@@ -172,7 +178,8 @@ Thus, the program was implemented and executed successfully, and the required ou
   Display the results of all operations using printf().
 ### Step 8:   
   Stop
-# Program:```c
+# Program:
+```c
     #include <stdio.h>
     
     int main()
@@ -200,7 +207,8 @@ Thus, the program was implemented and executed successfully, and the required ou
         return 0;
     }
 ```
-# Output:<img width="412" height="630" alt="image" src="https://github.com/user-attachments/assets/f08d04ee-600b-41c7-b61b-0d15706e8503" />
+# Output:
+<img width="412" height="630" alt="image" src="https://github.com/user-attachments/assets/f08d04ee-600b-41c7-b61b-0d15706e8503" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -245,7 +253,8 @@ Thus, the program was implemented and executed successfully, and the required ou
    Print "Special Symbol".
 ### Step 8:   
   Stop
-# Program:```c
+# Program:
+```c
     #include <stdio.h>
     
     int main()
@@ -267,7 +276,8 @@ Thus, the program was implemented and executed successfully, and the required ou
         return 0;
     }
 ```
-# Output:<img width="472" height="311" alt="image" src="https://github.com/user-attachments/assets/2bd3022a-88df-4d8d-8800-17ea576a37c7" />
+# Output:
+<img width="472" height="311" alt="image" src="https://github.com/user-attachments/assets/2bd3022a-88df-4d8d-8800-17ea576a37c7" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
